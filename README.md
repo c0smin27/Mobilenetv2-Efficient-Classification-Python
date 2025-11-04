@@ -35,7 +35,7 @@ Classify grayscale clothing images (28×28 pixels) into **10 categories** using 
 
 ## Technologies Used
 
-- Python (**Google Colab**)  
+- Python (Google Colab)  
 - TensorFlow / Keras  
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
